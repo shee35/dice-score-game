@@ -12,5 +12,6 @@ dark mode:
 
 ### here is the link of the game 
 
+https://xxx32.github.io/dice-score-game/
 
 happy playing 😁😊
