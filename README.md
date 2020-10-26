@@ -4,6 +4,12 @@
 
 ### the screenshots are attached below. 
 
+light mode:
+![alt text](http)
+
+dark mode:
+![alt text]()
+
 ### here is the link of the game 
 
 

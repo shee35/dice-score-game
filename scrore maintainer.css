@@ -1,0 +1,35 @@
+.day   { background: #eee; color: black; }
+.night { background: #333; color: #ffffff }
+
+.mode { 
+    float:right; 
+} 
+.change{
+    border: 2px solid black;
+    padding: 2px;
+    border-radius: 40%;
+    cursor: pointer;
+}
+.win{
+    color: #32CD32;
+}
+#winner{
+    color: chocolate;
+    margin: 0 auto;
+    padding: 50px;
+    font-size:535%;
+}
+#press{
+    margin: 10px;
+    background-color: rebeccapurple;
+    color: seashell;
+    padding: 10px;
+}
+h2{
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+.centre{
+    max-width: 600px;
+	margin: 0 auto;
+}
