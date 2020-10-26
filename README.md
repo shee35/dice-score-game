@@ -5,10 +5,10 @@
 ### the screenshots are attached below. 
 
 light mode:
-![alt text](http)
+![alt text](https://github.com/xxx32/dice-score-game/blob/main/screenshots/lightmode.png)
 
 dark mode:
-![alt text]()
+![alt text](https://github.com/xxx32/dice-score-game/blob/main/screenshots/darkmode.png)
 
 ### here is the link of the game 
 
