@@ -14,4 +14,4 @@ dark mode:
 
 https://xxx32.github.io/dice-score-game/
 
-happy playing 😁😊
+happy playing 😊
